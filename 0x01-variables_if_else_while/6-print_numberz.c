@@ -2,8 +2,7 @@
 
 /**
  *	main - this is a function for practicing
- *	Retrun: 0 always
- *	Description: it`s should print 0-9 useing putchar function
+ *	Return: 0 always
  */
 
 int main(void)
