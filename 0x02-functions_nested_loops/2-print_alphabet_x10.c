@@ -1,4 +1,4 @@
-#include "stdio.h"
+#include "main.h"
 
 /**
  *	print_alphabet_x10 - this is a function for practicing
