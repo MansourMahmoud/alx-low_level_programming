@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <main.h>
 
 /**
  *	main - this is a function for practicing
@@ -7,6 +8,13 @@
 
 int main(void)
 {
-	printf("_putchar\n");
-	return 0;
+	char str[] = "_putchar";
+	int num;
+
+	for (num = 0; num < 8; num++)
+	{
+		_putchar(str[num]);
+	}
+	_putchar('\n');
+	return (0);
 }
