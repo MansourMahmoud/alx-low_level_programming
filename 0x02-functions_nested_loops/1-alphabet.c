@@ -1,7 +1,7 @@
 #include "main.h"
 
-/*
- *	main - this is a function for practicing
+/**
+ *	print_alphabet - this is a function for practicing
  *	Return: 0 always
  */
 
@@ -14,5 +14,4 @@ void print_alphabet(void)
 		_putchar(ch);
 	}
 	_putchar('\n');
-	return (0);
 }
