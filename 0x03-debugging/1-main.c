@@ -1,6 +1,6 @@
 /**
  * main - causes an infinite loop
- * @i: shauld be inside while function i++
+ * i: shauld be inside while function i++
  * Return: 0
  */
 
